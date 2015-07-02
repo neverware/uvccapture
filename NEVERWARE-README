@@ -1,0 +1,4 @@
+We used to grab this file from
+http://staticwave.ca/source/uvccapture/uvccapture-0.5.tar.bz2, but their website
+started 404'ing.  So, we took a cached version and put it up on S3 and put
+the tarball in sourcecontrol.
